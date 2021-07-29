@@ -1,6 +1,6 @@
 # Txtparser
 
-**TODO: Add description**
+Trying to write a simple parser using https://github.com/dashbitco/nimble_parsec
 
 ## Installation
 
